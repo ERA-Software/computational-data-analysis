@@ -11,7 +11,7 @@ This is a teaching repository for **Computational Data Analysis with Python**, a
 Notebooks are designed for Google Colab. To run locally:
 
 ```bash
-jupyter notebook notebooks/T1_intro_to_Python.ipynb
+jupyter notebook notebooks/T3_from_missing_data_to_insights_solution.ipynb
 # or
 jupyter lab
 ```
@@ -21,7 +21,7 @@ Each notebook is self-contained: it imports its own libraries and generates synt
 ## Repository structure
 
 ```
-notebooks/   Tutorial notebooks (T1–T4) and a template
+notebooks/   Tutorial notebooks (T1–T4)
 project/     Course project guidelines and suggested tracks
 ```
 
@@ -30,9 +30,9 @@ project/     Course project guidelines and suggested tracks
 | File | Topic | Key libraries |
 |------|-------|---------------|
 | `T1_intro_to_Python.ipynb` | Python basics (variables, loops, conditionals) | stdlib only |
-| `T2_intro_to_Python_pt2.ipynb` | Python continuation | stdlib only |
-| `T3_from_missing_data_to_conclusion.ipynb` | NumPy, Pandas, time series, missing data | `numpy`, `pandas` |
-| `T4_from_raw_data_to_plots.ipynb` | Matplotlib, SciPy curve fitting, hypothesis testing | `numpy`, `pandas`, `matplotlib`, `scipy` |
+| `T2_from_scripts_to_structured_code.ipynb` | Python continuation | stdlib only |
+| `T3_from_missing_data_to_insights_solution.ipynb` | NumPy, Pandas, time series, missing data | `numpy`, `pandas` |
+| `T4_from_data_points_to_visualization_solution.ipynb` | Matplotlib, SciPy curve fitting, hypothesis testing | `numpy`, `pandas`, `matplotlib`, `scipy` |
 
 ## Notebook format conventions
 
@@ -45,7 +45,7 @@ Every tutorial notebook follows this structure:
 5. **Hackathon** — numbered tasks graded Easy / Medium / Hard, each with a `# YOUR CODE HERE` scaffold cell followed by a `# ✅ SOLUTION` cell.
 6. **Summary table** — recap of skills practised
 
-Use `notebooks/T3_from_missing_data_to_conclusion.ipynb` as the starting point for new tutorial notebooks.
+Use `notebooks/T3_from_missing_data_to_insights_solution.ipynb` as the starting point for new tutorial notebooks.
 
 When editing notebooks use the `NotebookEdit` tool rather than editing raw JSON.
 
