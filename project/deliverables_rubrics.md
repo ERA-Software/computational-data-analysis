@@ -209,3 +209,140 @@ A complete analytical workflow:
 Each stage builds on the previous one.  
 Early submissions focus on **understanding the problem and the data**,  
 while later submissions emphasize **modeling, evaluation, and decision-oriented insight**.
+
+---
+
+# Oral presentation
+
+## 🔹 Oral Presentation and Q&A
+
+**Format**
+- **Presentation:** 12 minutes
+- **Discussion / Q&A:** 8 minutes
+
+The oral component assesses whether students can communicate the project clearly, justify their analytical choices, and demonstrate individual understanding of the submitted work. Use of LLMs or other tools is allowed, but students remain fully accountable for the final analysis, code, results, and conclusions.
+
+---
+
+## Presentation Rubric
+
+### 1. Project story and structure (20%)
+- Clear motivation and project question
+- Logical flow from question to data, methods, results, limitations, and conclusion
+- Focused presentation within the 12-minute limit
+
+**Levels**
+- Excellent: coherent, focused, and easy to follow
+- Satisfactory: mostly clear, but partly generic, rushed, or disconnected
+- Poor: unclear structure or weak connection between project components
+
+---
+
+### 2. Data, preprocessing, and EDA (20%)
+- Dataset and key variables are clearly explained
+- Data quality issues and preprocessing choices are justified
+- EDA supports the project question and is not merely descriptive
+- Figures are readable and interpreted
+
+**Levels**
+- Excellent: data choices and EDA are well justified and insightful
+- Satisfactory: main steps are explained, but interpretation is limited
+- Poor: data preparation or EDA is vague, unjustified, or disconnected from the question
+
+---
+
+### 3. Methods, validation, and results (25%)
+- Method is appropriate for the question
+- Baseline or comparison approach is explained
+- Validation strategy and metrics are justified
+- Results are interpreted critically, including errors or weak performance where relevant
+
+**Levels**
+- Excellent: technically sound, clearly justified, and critically interpreted
+- Satisfactory: understandable, but validation or interpretation remains basic
+- Poor: inappropriate method, weak validation, or results reported without explanation
+
+---
+
+### 4. Uncertainty, limitations, and decision insight (20%)
+- Assumptions, uncertainty, bias, and limitations are discussed
+- Conclusions distinguish evidence from speculation
+- Final recommendation or decision insight follows from the results
+
+**Levels**
+- Excellent: honest, precise, and decision-relevant interpretation
+- Satisfactory: limitations are mentioned, but implications are only partly discussed
+- Poor: uncertainty is ignored or conclusions are overstated
+
+---
+
+### 5. Slide design and delivery (15%)
+- Slides are readable and not overloaded
+- Visuals support the message
+- Presentation is well-paced
+- Both group members contribute meaningfully
+
+**Levels**
+- Excellent: professional, clear, and well-paced
+- Satisfactory: understandable, but some slides or explanations are unclear
+- Poor: slides or delivery make the project difficult to follow
+
+---
+
+## Q&A Rubric
+
+The Q&A verifies understanding, critical analysis, and accountability. Each student may be asked to explain any part of the project, including code, preprocessing, modeling, validation, interpretation, limitations, and use of external tools.
+
+### 1. Understanding of the workflow (25%)
+- Explains the full workflow from raw data to conclusion
+- Understands how their contribution fits into the full project
+- Explains key implementation choices without relying on prepared text
+
+**Levels**
+- Excellent: clear ownership and understanding of the complete workflow
+- Satisfactory: partial understanding, with some superficial explanations
+- Poor: cannot explain important parts of the project
+
+---
+
+### 2. Justification of choices (25%)
+- Justifies the question, preprocessing, methods, validation, and metrics
+- Explains reasonable alternatives where relevant
+- Connects choices to the project objective and data
+
+**Levels**
+- Excellent: choices are justified with clear technical and practical reasoning
+- Satisfactory: choices are reasonable, but justification is incomplete
+- Poor: choices cannot be justified or appear applied mechanically
+
+---
+
+### 3. Critical analysis and limitations (25%)
+- Identifies weaknesses in the analysis
+- Discusses uncertainty, bias, data quality issues, and failure modes
+- Explains how limitations affect conclusions
+- Avoids defensive or overconfident answers
+
+**Levels**
+- Excellent: reflective, precise, and honest about what the analysis can support
+- Satisfactory: limitations are acknowledged, but consequences are not fully explained
+- Poor: vague, defensive, or unable to identify important limitations
+
+---
+
+### 4. Accountability and LLM/tool use (25%)
+- Explains submitted code, figures, results, and claims in their own words
+- Can identify and critically assess externally assisted or LLM-assisted parts if asked
+- Takes responsibility for the final submission
+- Responds directly and reasons through follow-up questions
+
+**Levels**
+- Excellent: transparent, accountable, and independently understands the work
+- Satisfactory: mostly correct, but some explanations are vague or dependent on prepared material
+- Poor: cannot explain submitted work or verify tool-generated content
+
+---
+
+## ✅ Key Principle
+
+A strong oral component shows clear communication, technical understanding, honest critical reflection, and accountability. Polished slides or complex methods cannot compensate for weak understanding during the Q&A.
